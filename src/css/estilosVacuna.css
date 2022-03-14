@@ -1,0 +1,209 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    list-style: none;
+    margin-top: -60px;
+    margin-left: 600px;
+}
+
+ .menu li a{
+    text-decoration: none;
+    color: #6D7B93;
+    font-weight: bold;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #2848C6;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+.titulo-logo{
+    color: #3269D9 !important;
+    margin-left: 70px;
+}
+.cabecera{
+    background: #E6F4FC;
+    margin-top: -17px;
+    height: 70px;
+}
+
+.alinearVertical{
+    display: inline-block;
+}
+
+.espacio{
+    padding: 20px;
+}
+
+/* .alineartextoright{
+    text-align: right;
+} */
+
+.titulos-section{
+    color: #1F3E72; 
+    font-size: 70px;
+}
+
+.texto-section{
+    color: #6D7B93; 
+    font-size: 25px; 
+    width: 60%;
+}
+
+.info-selectores-section-amarillos{
+    color: gold; 
+    background-color: #FFFAE8;
+    font-size: 20px; 
+    margin-right: 10px;
+}
+
+.img-section{
+    border-radius: 20px; 
+    width: 100%;
+}
+
+.info-selectores-section-azul{
+    font-size: 20px; 
+    margin-right: 10px; 
+    color: #2747C5; 
+    background-color: #EEF3FF;
+}
+
+.form-cita{
+    position: absolute; 
+    background-color: rgba(234,240,251,0.6); 
+    border-radius: 20px; 
+    width: 1000px;
+}
+
+.form-text{
+    margin-left: 20px; 
+    font-size: 20px; 
+    font-weight: bold; 
+    color: #6D7B93;
+}
+
+.form-button{
+    color: white; 
+    background-color: #2747C5; 
+    border-radius: 10px; 
+    width: 140px; 
+    height: 40px; 
+    font-size: 20px; 
+    border: 0px;
+}
+
+.img-vacunas{
+    background-image: url("../../assets/vacunas.png") ;
+    height: 300px; 
+    margin-top: 70px; 
+    margin-left: 60px; 
+    margin-right: 60px;
+}
+
+.cards-info{
+    width: 200px; 
+    height: 200px;
+    padding: 15px;
+    margin-left: 25px; 
+    border: 10px solid rgba(234,240,251,0.6);
+}
+
+.icon-tamano-card{
+    font-size: 25px;
+    color: #2747C5; 
+    background-color: #EEF3FF;
+    padding: 5px;
+}
+
+.titulo-info-cards{
+    color: #1F3E72;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.texto-info-cards{
+    text-align: justify;
+    width: 190px;
+}
+
+.footerclass{
+    background-color: #EAF0FB;
+}
+
+.titulo-logo-footer{
+    color: #3269D9 !important;
+}
+
+.titulo-info-footer{
+    color: #1F3E72;
+    font-size: 20px;
+}
+
+.texto-info-footer{
+    color: black;
+}
+
+.div-footer{
+    margin-left: 80px;
+}
+
+.info-div-preparation{
+    border: 2px solid rgba(234,240,251,0.6); 
+    width: 50%; 
+    padding: 10px; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.icon-deslizable{ 
+    color: #2747C5;
+}
+
+.icon-contact{
+    font-size: 30px; 
+    color: #2747C5; 
+    background-color: #EEF3FF;
+    padding: 5px;
+}
+
+.form-button-contact{
+    color: #2747C5; 
+    background-color: rgba(234,240,251,0.7); 
+    border-radius: 10px; 
+    width: 200px; 
+    height: 40px; 
+    font-size: 20px; 
+    border: 0px;
+}
+
+.form-button-contact:hover{
+    color: white; 
+    background-color: #2747C5; 
+}
+
+.div-contact{
+    border: 3px solid rgba(234,240,251,0.6); 
+    width: 30%; 
+    padding: 15px; 
+    margin-top: 0px; 
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.espacio-contact{
+    margin-left: 10px;
+}
